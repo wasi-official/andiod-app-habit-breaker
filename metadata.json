@@ -1,0 +1,6 @@
+{
+  "name": "Daily Habits & Work Tracker",
+  "description": "An elegant daily logger and planner for work, exercise, water intake, and healthy habits with personalized AI recommendations and animated progress charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
